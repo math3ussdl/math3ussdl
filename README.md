@@ -4,7 +4,7 @@
 - 🌱 Live and learn!
 - 📫 How to reach me **limabrot879@gmail.com**
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
