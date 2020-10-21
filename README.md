@@ -17,5 +17,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Math3uzz&show_icons=true" alt="Math3uzz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=math3ussdl&show_icons=true" alt="Math3uzz" />
 </p>
