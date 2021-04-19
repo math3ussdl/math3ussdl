@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer passionate about innovation and knowledge!</h3>
 
 - 🌱 Live and learn!
-- 📫 How to reach me **limabrot879@gmail.com**
+- 📫 How to reach me **limabrot879@gmail.com** OR **mtthwkwlsk@gmail.com**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
