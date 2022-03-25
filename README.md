@@ -11,8 +11,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/>
 </p>
