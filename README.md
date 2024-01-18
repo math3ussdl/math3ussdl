@@ -22,13 +22,13 @@
   With Flutter as my tool of choice, I excel in crafting beautiful and efficient mobile applications that seamlessly run on both iOS and Android platforms. Flutter's hot reload feature allows me to iterate quickly, ensuring rapid development without compromising quality.
 </p>
 
-<h3>🔧 Tools of the Trade:</h3>
-
-Languages: C#, Dart
-Frameworks: .NET, Flutter
-IDEs: Visual Studio, Visual Studio Code
-Version Control: Git
-Database: SQL Server, Firebase
+| 🔧 Tools of the Trade: |               |          |
+|-----------------------|---------------|----------|
+| Languages             | C#            | Dart     |
+| Frameworks            | .NET          | Flutter  |
+| IDEs                  | Visual Studio | VS Code  |
+| Version Control       | Git           |          |
+| Database              | SQL Server    | Postgres |
 
 <h3>🌟 Passion & Approach:</h3>
 
@@ -45,7 +45,7 @@ Database: SQL Server, Firebase
 📧 **limabrot879@gmail.com**
 🌐 **https://www.linkedin.com/in/math3ussdl/**
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=math3ussdl&show_icons=true" alt="Math3uzz" />
 </p>
 
