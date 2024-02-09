@@ -7,13 +7,13 @@
 <h3>🚀 Expertise:</h3>
 
 <p>
-  I specialize in harnessing the power of .NET and Flutter to bring ideas to life. My proficiency in .NET ensures robust and scalable web applications, while my mastery of Flutter allows me to deliver sleek and performant cross-platform mobile apps. From server-side logic to the pixel-perfect UI, I've got it covered.
+  I specialize in harnessing the power of Spring and Angular to bring ideas to life. My proficiency in Spring ensures robust and scalable web applications, while my mastery of Angular allows me to deliver elegant and performant client-side web applications. From server-side logic to the perfect user interface, I've got it covered.
 </p>
 
 <h4>🌐 Web Development:</h4>
 
 <p>
-  In the vast realm of web development, I utilize the .NET framework to build powerful, data-driven applications. My expertise includes creating responsive and interactive user interfaces, implementing secure authentication systems, and optimizing web performance for a top-notch user experience.  
+  In the vast realm of web development, I utilize the Spring framework and Angular to build powerful, data-driven applications. My expertise includes creating responsive and interactive user interfaces, implementing secure authentication systems, and optimizing web performance for a top-notch user experience.  
 </p>
 
 <h4>📱 Mobile Development:</h4>
@@ -22,13 +22,13 @@
   With Flutter as my tool of choice, I excel in crafting beautiful and efficient mobile applications that seamlessly run on both iOS and Android platforms. Flutter's hot reload feature allows me to iterate quickly, ensuring rapid development without compromising quality.
 </p>
 
-| 🔧 Tools of the Trade: |               |          |
+| 🔧 Tools of the Trade: |              |          |
 |-----------------------|---------------|----------|
-| Languages             | C#            | Dart     |
-| Frameworks            | .NET          | Flutter  |
-| IDEs                  | Visual Studio | VS Code  |
+| Languages             | Java          | TypeScript |
+| Frameworks            | Spring        | Angular  |
+| IDEs                  | IntelliJ      | VS Code  |
 | Version Control       | Git           |          |
-| Database              | SQL Server    | Postgres |
+| Database              | MySQL         | Postgres |
 
 <h3>🌟 Passion & Approach:</h3>
 
