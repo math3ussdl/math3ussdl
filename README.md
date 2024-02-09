@@ -27,7 +27,7 @@
 | Languages             | Java          | TypeScript |
 | Frameworks            | Spring        | Angular  |
 | IDEs                  | IntelliJ      | VS Code  |
-| Version Control       | Git           |          |
+| Version Control       | Git           | GitHub   |
 | Database              | MySQL         | Postgres |
 
 <h3>🌟 Passion & Approach:</h3>
