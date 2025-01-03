@@ -22,13 +22,13 @@
   With Flutter as my tool of choice, I excel in crafting beautiful and efficient mobile applications that seamlessly run on both iOS and Android platforms. Flutter's hot reload feature allows me to iterate quickly, ensuring rapid development without compromising quality.
 </p>
 
-| 🔧 Tools of the Trade: |              |          |
-|-----------------------|---------------|----------|
-| Languages             | Java          | TypeScript |
-| Frameworks            | Spring        | Angular  |
-| IDEs                  | IntelliJ      | VS Code  |
-| Version Control       | Git           | GitHub   |
-| Database              | MySQL         | Postgres |
+| 🔧 Stack 🔧          |               |          |            |
+|-----------------------|---------------|----------|------------|
+| Languages             | Java          | C#       | TypeScript |
+| Frameworks            | Spring        | Asp.NET  | Angular    |
+| IDEs                  | IntelliJ      | Rider    | VS Code    |
+| Version Control       | Git           | GitHub   |            |
+| Database              | MySQL         | MariaDB  | Postgres   |
 
 <h3>🌟 Passion & Approach:</h3>
 
